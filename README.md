@@ -1,5 +1,5 @@
 # QSC-Qiskit-Fall-Fest-2023
-![Qiskit Fall Fest 2023](https://user-images.githubusercontent.com/95167383/266774144-4f4a8065-60d9-4753-8f7b-33d406a556fc.png)
+![Qiskit Fall Fest 2023](qscxibm.png)
 
 
 QuantumSC, the University of Southern California's Quantum Computing Club, will be hosting the first [Qiskit Fall Fest](https://qiskit.org/events/fall-fest) event at USC from November 10th - 12th, 2023. This repository serves as a hub for event information, challenge details, resources, and submission guidelines.
@@ -20,10 +20,12 @@ This event will be held remotely and includes fun quantum-related activites/disc
 
 ## Schedule
 
-_**Day 1: Friday November 10th, 7pm PST - Introduction to Quantum Computing and Qiskit**_
+_**Day 1: Friday November 10th, 7pm PST - Introduction to Quantum Computing and Qiskit**_ 
+
 Learn more about Qiskit Fall Fest, play an awesome quantum kahoot, and learn about the challenges for the weekend! First challenge notebook released
 
 _**Day 2: Saturday November 11th, 7pm PST - Discussion / 2nd challenge**_
+
 Discuss the Qiskit challenge with other contestants. Second challenge notebook released
 
 _**Day 3: Sunday November 12th, 7pm PST - Award Ceremony!**_
