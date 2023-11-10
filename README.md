@@ -35,6 +35,7 @@ _**Day 3: Sunday November 12th, 7pm PST - Award Ceremony!**_
 
 The challenges are designed to cater to a wide range of skill levels from beginners to advanced users. Each challenge focuses on practical quantum computing problems and will involve using Python and Qiskit.
 
+Submit labs [here](https://www.dropbox.com/request/wu8yvlagJ5FUNOBEHAIR)
 
 ## How to Participate
 
