@@ -55,6 +55,6 @@ A special thanks to the IBM Quantum team for their support and to all the studen
 
 A huge congraduations to our Qiskit Fall Fest Challenge Winners! The winners are:
 
-Quantum Kahoot: Onkar Apte
-Lab B: Amy Elsayed, Melvin Varghese, Sajjad Ahmad
-Lab C: Prakhar Bhatnagar, Devika Mehra, Naman Jain
+- Quantum Kahoot: Onkar Apte
+- Lab B: Amy Elsayed, Melvin Varghese, Sajjad Ahmad
+- Lab C: Prakhar Bhatnagar, Devika Mehra, Naman Jain
